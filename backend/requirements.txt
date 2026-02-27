@@ -2,7 +2,7 @@ fastapi==0.133.1
 uvicorn[standard]==0.31.1
 redis==5.3.1
 psycopg2-binary==2.9.12
-python-multipart==0.0.7
+python-multipart==0.0.22
 sqlalchemy==2.1.5
 pydantic==2.10.4
 dnspython==2.8.1
