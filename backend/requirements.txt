@@ -1,9 +1,9 @@
 fastapi==0.133.1
-uvicorn[standard]==0.31.1
+uvicorn[standard]==0.32.1
 redis==5.3.1
-psycopg2-binary==2.9.12
+psycopg2-binary==2.9.13
 python-multipart==0.0.22
-sqlalchemy==2.1.5
-pydantic==2.10.4
+sqlalchemy==2.1.6
+pydantic==2.11.0
 dnspython==2.8.1
 email-validator==2.3.1
